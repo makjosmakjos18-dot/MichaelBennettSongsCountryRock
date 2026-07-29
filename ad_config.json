@@ -13,7 +13,7 @@
       "enabled": true,
       "unitId": "ca-app-pub-6179556445410335/5076138798",
       "interval": 3,
-      "minimumSeconds": 30
+      "minimumSeconds": 10
     },
 
     "native": {
